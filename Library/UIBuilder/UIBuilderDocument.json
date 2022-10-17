@@ -1,0 +1,77 @@
+{
+    "MonoBehaviour": {
+        "m_Enabled": true,
+        "m_EditorHideFlags": 0,
+        "m_Name": "BuilderDocument",
+        "m_EditorClassIdentifier": "UnityEditor.UIBuilderModule:Unity.UI.Builder:BuilderDocument",
+        "m_CurrentCanvasTheme": 0,
+        "m_CurrentCanvasThemeStyleSheetReference": {
+            "instanceID": 0
+        },
+        "m_CodePreviewVisible": true,
+        "m_OpenUXMLFiles": [
+            {
+                "m_OpenUSSFiles": [
+                    {
+                        "m_StyleSheet": {
+                            "fileID": 7433441132597879392,
+                            "guid": "43faaec72ccc899459c7bc2ba40e276d",
+                            "type": 3
+                        },
+                        "m_BackupStyleSheet": {
+                            "instanceID": 0
+                        },
+                        "m_OldPath": "Assets/UXML/Styles/textField.uss"
+                    }
+                ],
+                "m_VisualTreeAssetBackup": {
+                    "instanceID": 0
+                },
+                "m_OpenendVisualTreeAssetOldPath": "Assets/UXML/Interface.uxml",
+                "m_VisualTreeAsset": {
+                    "fileID": 9197481963319205126,
+                    "guid": "90fa0f749b1918e45abcf6e0d02727c9",
+                    "type": 3
+                },
+                "m_ActiveStyleSheet": {
+                    "fileID": 7433441132597879392,
+                    "guid": "43faaec72ccc899459c7bc2ba40e276d",
+                    "type": 3
+                },
+                "m_Settings": {
+                    "UxmlGuid": "90fa0f749b1918e45abcf6e0d02727c9",
+                    "UxmlPath": "Assets/UXML/Interface.uxml",
+                    "CanvasX": 0,
+                    "CanvasY": 0,
+                    "CanvasWidth": 1920,
+                    "CanvasHeight": 1080,
+                    "MatchGameView": false,
+                    "ZoomScale": 0.5,
+                    "PanOffset": {
+                        "x": 239.5330810546875,
+                        "y": 135.13296508789063
+                    },
+                    "ColorModeBackgroundOpacity": 1.0,
+                    "ImageModeCanvasBackgroundOpacity": 1.0,
+                    "CameraModeCanvasBackgroundOpacity": 1.0,
+                    "EnableCanvasBackground": false,
+                    "CanvasBackgroundMode": 0,
+                    "CanvasBackgroundColor": {
+                        "r": 0.0,
+                        "g": 0.0,
+                        "b": 0.0,
+                        "a": 255.0
+                    },
+                    "CanvasBackgroundImage": {
+                        "instanceID": 0
+                    },
+                    "CanvasBackgroundImageScaleMode": 1,
+                    "CanvasBackgroundCameraName": ""
+                },
+                "m_OpenSubDocumentParentIndex": -1,
+                "m_OpenSubDocumentParentSourceTemplateAssetIndex": -1
+            }
+        ],
+        "m_ActiveOpenUXMLFileIndex": 0
+    }
+}

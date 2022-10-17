@@ -1,0 +1,19 @@
+.textField {
+    flex-grow: 1;
+    flex-direction: column;
+    width: 30%;
+    height: 40%;
+    top: 25%;
+    bottom: 25%;
+    margin-left: 26px;
+    margin-right: 26px;
+    margin-top: 0;
+    margin-bottom: 0;
+    font-size: 25px;
+}
+
+.container {
+    flex-direction: row;
+    align-items: stretch;
+    justify-content: flex-start;
+}

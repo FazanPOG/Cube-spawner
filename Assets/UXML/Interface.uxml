@@ -1,0 +1,8 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" editor-extension-mode="False">
+    <Style src="project://database/Assets/UXML/Styles/textField.uss?fileID=7433441132597879392&amp;guid=43faaec72ccc899459c7bc2ba40e276d&amp;type=3#textField" />
+    <ui:VisualElement class="container" style="flex-direction: row; height: 256px; top: 70%; flex-wrap: nowrap;">
+        <ui:TextField picking-mode="Ignore" value="filler text" is-delayed="false" mask-character="Time" readonly="false" label="Time" name="TimeTextField" text="1" class="textField" style="-unity-font-style: normal; flex-direction: column; align-items: stretch; justify-content: center;" />
+        <ui:TextField picking-mode="Ignore" value="filler text" label="Speed" name="SpeedTextField" text="1" class="textField" />
+        <ui:TextField picking-mode="Ignore" value="filler text" label="Distance" name="DistanceTextField" text="1" class="textField" />
+    </ui:VisualElement>
+</ui:UXML>
